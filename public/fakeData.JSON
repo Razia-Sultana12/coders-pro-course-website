@@ -1,0 +1,137 @@
+[
+    { "id": 1,
+      "name": "Responsive Web Design",
+      "Duration": "96hours",
+      "Lectures": [
+        "32(regular)",
+        "24(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "https://dyits.com/wp-content/uploads/2018/07/Responsive_Website_Design.jpg",
+      "taka": "20000TK"
+    },
+    { "id":  2 ,
+      "name": "Graphic Design",
+      "Duration": "72hours",
+      "Lectures": [
+        "24(regular)",
+        "19(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg?fit=1200%2C800&ssl=1",
+      "taka": "$20000"
+    },
+    { "id":  3 ,
+      "name": "Digital Marketing",
+      "Duration": "72hours",
+      "Lectures": [
+        "30(regular)",
+        "24(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "https://siit.com.bd/wp-content/uploads/2019/12/digital-markting.jpg",
+      "taka": "24000Tk"
+    },
+    { "id":  4 ,
+      "name": "Accounts Management System",
+      "Duration": "48hours",
+      "Lectures": [
+        "16(regular)",
+        "12(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "http://www.evisionsystem.com/blog/wp-content/uploads/2020/03/Accounts-Management.png",
+      "taka": "24000TK"
+    },
+    { "id": 5  ,
+      "name": "EXCEL For PROFESSIONALS",
+      "Duration": "12hours",
+      "Lectures": "3(regular)",
+      "skillLevel": "Advance",
+      "dataImg": "https://cdn.lynda.com/course/574676/574676-1601825650389-16x9.jpg",
+      "taka": "1500TK"
+    },
+    { "id": 6  ,
+        "name": "English Language Training",
+        "Duration": "100hours",
+        "Lectures": [
+          "20(regular)",
+          "15(weekend)"
+        ],
+        "skillLevel": "Beginner",
+        "dataImg": "https://cdn5.vectorstock.com/i/1000x1000/61/09/british-english-language-learning-class-vector-26486109.jpg",
+        "taka": "5000TK"
+      },
+    { "id": 7  ,
+      "name": "Content Writing",
+      "Duration": "36hours",
+      "Lectures": "12(regular)",
+      "skillLevel": "Beginner",
+      "dataImg": "https://www.henryharvin.com/blog/wp-content/uploads/2020/05/resize-1540666587-content-2-1536x1183-2.jpg",
+      "taka": "3000TK"
+    },
+    
+    { "id":  8 ,
+      "name": "Film & Media Training",
+      "Duration": "100hours",
+      "Lectures": [
+        "24(regular)",
+        "19(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "https://www.york.ac.uk/media/study/courses/postgraduate/tftv/Directing-clapperboard-crop.jpg",
+      "taka": "8000TK"
+    },
+    { "id":  9 ,
+      "name": "Web & Software Training",
+      "Duration": "300hours",
+      "Lectures": [
+        "30(regular)",
+        "24(weekend)"
+      ],
+      "skillLevel": "Beginner to Advance",
+      "dataImg": "https://st4.depositphotos.com/4230659/22501/v/950/depositphotos_225010992-stock-illustration-isometric-developing-programming-and-coding.jpg",
+      "taka": "30000TK"
+    },
+    { "id": 10  ,
+      "name": "Motion Graphics",
+      "Duration": "100hours",
+      "Lectures": [
+        "20(regular)",
+        "16(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "https://mygraphicsplanet.com/wp-content/uploads/2021/02/AMEEN-01.jpg",
+      "taka": "10000TK"
+    },
+    { "id": 11  ,
+      "name": "UX-UI Design",
+      "Duration": "96hours",
+      "Lectures": [
+        "24(regular)",
+        "19(weekend)"
+      ],
+      "skillLevel": "Beginner",
+      "dataImg": "https://www.mydixi.com/wp-content/uploads/2021/02/UIUX.jpg",
+      "taka": "5999TK"
+    },
+    { "id":  12 ,
+      "name": "Robotics & Automation",
+      "Duration": "300hours",
+      "Lectures": [
+        "24(regular)",
+        "19(weekend)"
+      ],
+      "skillLevel": "Beginner to Advance",
+      "dataImg": "https://i.pinimg.com/originals/0a/b8/18/0ab8181928c4b91d9048cbaa1a491a26.jpg",
+      "taka": "25000TK"
+    },
+    { "id": 13  ,
+      "name": "Drawing For Kids",
+      "Duration": "72hours",
+      "Lectures": "3(regular)",
+      "skillLevel": "Beginner",
+      "dataImg": "https://thumbs.dreamstime.com/z/online-lesson-art-drawing-e-learning-online-lesson-art-drawing-distance-learning-lesson-online-e-learning-art-156253995.jpg",
+      "taka": "999TK"
+    }
+  ]
