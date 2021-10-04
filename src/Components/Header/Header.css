@@ -1,5 +1,19 @@
-.background{
-    background-image:url(../Header/bg.jpg);
-    background-repeat:no-repeat;
-    background-size: cover;
+.background {
+   background-image:linear-gradient(powderblue,steelblue);
+   padding: 10px;
+
+}
+.linkStyle {
+   color: white;
+   font-weight: bolder;
+   font-size: 20px;
+   padding: 15px;
+}
+.linkStyle:hover{
+   background-color:slategrey;
+   border-radius: 5px;
+}
+h1{
+   color: white;
+
 }
