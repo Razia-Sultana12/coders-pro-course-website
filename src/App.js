@@ -12,12 +12,11 @@ function App() {
       <div>
        <Router>
          <Header></Header>
-         <NotFound></NotFound>
-         
+     
        
 <Switch>
-  <Route path="/header">
-       <Header></Header>
+  <Route exact path="/">
+       <Home></Home>
      </Route>
      <Route path="/home">
        <Home></Home>
