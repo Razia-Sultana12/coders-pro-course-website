@@ -1,3 +1,14 @@
 .button{
     text-align: center;
 }
+.btn-tk{
+    background-color:rebeccapurple;
+    color: white;
+}
+.card:hover{
+    background-color:lightslategray;
+    color: white;
+}
+.card-img-top:hover{
+    transform: scale(1.10,1.10);
+}

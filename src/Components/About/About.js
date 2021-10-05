@@ -4,6 +4,7 @@ import { faLeaf ,faPhoneSquareAlt ,faAddressBook ,faLink ,faMapMarkerAlt ,faLapt
 
 
 
+
 const About = () => {
     const element = <FontAwesomeIcon icon={faLeaf} />
     const element2 =<FontAwesomeIcon icon={faPhoneSquareAlt}/>
@@ -15,8 +16,9 @@ const About = () => {
    
     
     return (
+       
         <div className="m-3">
-           <h2 className="text-center py-5 text-success">About Us</h2>
+           <h2 className="text-center py-5 title">About Us</h2>
            <div className="container">
             <div  className="row row-cols-4">
               <div className="col">
@@ -58,8 +60,11 @@ const About = () => {
                </div>
                </div> 
         </div>
-        
+        <br />
+        <hr />
+        <br />
         </div>
+       
     );
 };
 

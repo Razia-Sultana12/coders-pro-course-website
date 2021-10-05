@@ -1,6 +1,9 @@
 .background {
-   background-image:linear-gradient(powderblue,steelblue);
+   background-image:linear-gradient(slateblue,rebeccapurple);
+   width: 100%;
+   overflow: hidden;
    padding: 10px;
+
 
 }
 .linkStyle {
@@ -10,10 +13,19 @@
    padding: 15px;
 }
 .linkStyle:hover{
-   background-color:slategrey;
+   background-color:whitesmoke;
    border-radius: 5px;
+   color:green;
 }
 h1{
    color: white;
 
 }
+.btn-color{
+   background-image: linear-gradient(aquamarine,rgb(8, 193, 218));
+ color:white;}
+ .btn-color:hover{
+    background-image: linear-gradient(lightseagreen,green);
+    color: white;
+   
+ }
